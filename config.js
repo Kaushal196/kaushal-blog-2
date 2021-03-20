@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Here to pen my experience with code, life and whatever insightful I stumble upon!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-100765023-2',
   menu: [
     {
