@@ -8,7 +8,7 @@
 </h4>
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/976a9ddf-4713-4844-b864-2531c7f8ebbb/deploy-status)](https://app.netlify.com/sites/inzamam/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/976a9ddf-4713-4844-b864-2531c7f8ebbb/deploy-status)](https://app.netlify.com/sites/kaushal-blog/deploys)
 
 ## Table of contents
 + [Features](http://github.com/alxshelepenok/gatsby-starter-lumen#features)

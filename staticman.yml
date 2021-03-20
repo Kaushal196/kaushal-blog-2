@@ -2,4 +2,4 @@ allowedFields: ["name", "email", "message"]
 branch: "master"
 commitMessage: "Added new Staticman data"
 moderation: true
-name: "inzamam.dev"
+name: "kaushalpandey.dev"
