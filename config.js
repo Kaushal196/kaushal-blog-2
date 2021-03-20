@@ -27,7 +27,8 @@ module.exports = {
       email: 'pandeykaushal847@gmail.com',
       linkedin: 'https://www.linkedin.com/in/Kaushal196/',
       twitter: 'Kaushal196',
-      github: 'Kaushal196'
+      github: 'Kaushal196',
+      rss: 'https://kaushalpandey.dev/rss.xml'
     }
   }
 };
